@@ -8,7 +8,7 @@ import ContactFormClient from "@/components/ContactForm";
 import BookCallButton from "@/components/BookCallButton";
 import { motion } from "framer-motion";
 import { SectionHeading } from "@/components/ui";
-import { SiHtml5, SiJavascript, SiTypescript, SiPython, SiReact, SiNextdotjs, SiMongodb, SiAndroid, SiDart, SiFigma, SiFirebase, SiGit, SiCplusplus, SiExpress, SiRuby, SiRubyonrails, SiSocketdotio, SiNumpy, SiDatabricks, SiPostman, SiAbbott, SiPhp, SiCss3, SiThreedotjs, SiGsk } from "react-icons/si";
+import { SiHtml5, SiJavascript, SiPython, SiReact, SiNextdotjs, SiMongodb, SiAndroid, SiDart, SiFigma, SiFirebase, SiGit, SiCplusplus, SiExpress, SiRuby, SiRubyonrails, SiSocketdotio, SiNumpy, SiDatabricks, SiPostman, SiAbbott, SiPhp, SiCss3, SiThreedotjs, SiGsk } from "react-icons/si";
 import { FaAws, FaJava } from "react-icons/fa";
 import ProjectSection from "@/components/projectsection";
 import { MdAnimation } from "react-icons/md";
